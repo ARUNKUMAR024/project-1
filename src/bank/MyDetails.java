@@ -20,5 +20,8 @@ System.out.println("123456789123");
 System.out.println("378228701890");
 
 	} 
-	
+	public void ph() {
+		// TODO Auto-generated method stub
+System.out.println("1234567890");
+	}
 }

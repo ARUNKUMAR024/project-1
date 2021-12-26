@@ -22,7 +22,8 @@ public static void main(String[] args) {
 	c.branch(); 
 	c.name();
 	c.pannumber();
-	c.adhar();
+	c.adhar(); 
+	c.ph();
 	
 }
 
